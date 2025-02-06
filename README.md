@@ -30,5 +30,5 @@
 
 ---
 
-🌟 *Siempre buscando nuevas oportunidades para aprender y contribuir en proyectos de tecnología y análisis de datos.*
+🌟 *Siempre buscando nuevas oportunidades para aprender y contribuir.*
 
