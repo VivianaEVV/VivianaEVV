@@ -15,7 +15,7 @@
 - **Idiomas:** Español (nativo), Inglés (intermedio – B1)  
 
 ### 📚 Formación Académica
-- **Ingeniería Ejecución en Informática** – Universidad de las Américas (2023 – 2025)  
+- **Ingeniería Ejecución en Informática** – Universidad de las Américas (2023 – Fecha esperada 2025)  
 - **Magíster en Building Information Modeling (BIM)** – UNIACC (2019 – 2020)  
 - **Construcción Civil** – Universidad de las Américas (2014 – 2016)  
 
