@@ -1,34 +1,54 @@
-# ✨ Viviana Elisabeth Valdivia Vivar ✨  
+# 👋 ¡Hola! Soy Viviana Valdivia
 
-🚀 **Ingeniera en Informática** en etapa final de carrera, con experiencia en **análisis de datos**, **gestión de proyectos** y **coordinación técnica** en el sector de la construcción. Actualmente estoy en transición hacia el desarrollo de soluciones tecnológicas.  
-
-### 📌 Sobre mí
-- 🔍 Me especializo en **optimización de procesos** y **gestión de datos** para mejorar la productividad y el control de recursos.  
-- 💡 Actualmente, estoy fortaleciendo mis habilidades en **programación** (Java, Python, R) y **bases de datos** para construir soluciones de software escalables y eficientes.  
-- 🌱 Me apasiona el **aprendizaje continuo** y la **adopción de tecnologías innovadoras**.  
-- 📊 He desarrollado competencias en **análisis de datos** aplicando herramientas como SQL, R, y Tableau.  
-
-### 🛠️ Habilidades y Herramientas
-- **Lenguajes de Programación:** Python (básico), SQL (básico), R  
-- **Visualización y Análisis de Datos:** Tableau, Microsoft Excel  
-- **Gestión de Proyectos:** Microsoft Project, metodologías ágiles  
-- **Idiomas:** Español (nativo), Inglés (intermedio – B1)  
-
-### 📚 Formación Académica
-- **Ingeniería Ejecución en Informática** – Universidad de las Américas (2023 – Fecha esperada 2025)  
-- **Magíster en Building Information Modeling (BIM)** – UNIACC (2019 – 2020)  
-- **Construcción Civil** – Universidad de las Américas (2014 – 2016)  
-
-### 📈 Experiencia Destacada
-- Elaboración de **informes de análisis de datos** para la toma de decisiones estratégicas.  
-- Coordinación de **proyectos multidisciplinarios**, asegurando el cumplimiento de plazos y estándares de calidad.  
-- Implementación de **estrategias de optimización de procesos** y control presupuestario en proyectos de construcción.  
-
-### 📫 ¿Cómo contactarme?
-- **Correo:** viviana.valdivia.vivar@gmail.com  
-- **LinkedIn:** [[linkedin.com/in/viviana-valdivia](https://www.linkedin.com/in/viviana-valdivia-vivar/)](#)  
+🎯 **Junior Software Engineer** con formación en Ingeniería en Informática y trayectoria previa en la industria de la construcción. Actualmente desarrollo soluciones tecnológicas que automatizan procesos y transforman datos en decisiones, integrando herramientas como **Python, FastAPI, React.js y PostgreSQL**.
 
 ---
 
-🌟 *Siempre buscando nuevas oportunidades para aprender y contribuir.*
+## 🚀 Sobre mí
 
+- 🎓 Egresada de Ingeniería en Informática (tesis en desarrollo)
+- 👷‍♀️ Constructora Civil con experiencia en planificación técnica y gestión de proyectos
+- 💡 Apasionada por construir soluciones que generen impacto real
+- 🔄 En transición hacia roles en desarrollo backend, automatización y soluciones PropTech
+
+---
+
+## 🛠️ Tecnologías que utilizo
+
+**Lenguajes & Frameworks**  
+`Python` · `JavaScript` · `FastAPI` · `React.js` · `Java` (en formación)
+
+**Bases de Datos**  
+`PostgreSQL` · `SQL`
+
+**Herramientas**  
+`Scrum` · `Git` · `Microsoft Project` · `Tableau` · `BIM` · `ifc.js`
+
+---
+
+## 📌 Proyecto Destacado
+
+### 🔧 Plataforma Web para Automatización de Datos BIM
+**Descripción:**  
+Desarrollo de una solución full stack que permite visualizar y extraer automáticamente datos desde modelos BIM en formato IFC, optimizando la gestión de obras.
+
+**Tecnologías usadas:** React.js · FastAPI · PostgreSQL · ifc.js  
+**Rol:** Desarrollo full stack: UI, backend, modelo relacional y lógica de negocio 
+
+---
+
+## ✨ Lo que me motiva
+
+Me entusiasma contribuir en proyectos donde la tecnología transforma procesos y mejora la toma de decisiones. Busco integrarme a equipos colaborativos donde pueda aprender, aportar y crecer profesionalmente como desarrolladora.
+
+---
+
+## 📫 ¿Conectamos?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/viviana-vv/)
+- 📧 viviana.valdivia.vivar@gmail.com
+- 🌍 Santiago, Chile
+
+---
+
+⭐ *Gracias por visitar mi perfil de GitHub. ¡Estoy abierta a colaborar, aprender y construir nuevas soluciones!*  
