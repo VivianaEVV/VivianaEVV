@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Egresada de Ingeniería en Informática (tesis en desarrollo)
+- 🎓 Ingeniería en Informática
 - 👷‍♀️ Constructora Civil con experiencia en planificación técnica y gestión de proyectos
 - 💡 Apasionada por construir soluciones que generen impacto real
 - 🔄 En transición hacia roles en desarrollo backend, automatización y soluciones PropTech
